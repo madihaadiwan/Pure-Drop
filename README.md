@@ -6,7 +6,7 @@ Pure Drop is a startup concept for a reusable, eco-friendly stainless steel wate
 
 ## Live Website
 
-[![Visit Pure Drop website](assets/site_preview.png)](https://Madihadiwan.github.io/pure-drop/)
+[![Visit Pure Drop website](assets/site_preview.png)](https://madihaadiwan.github.io/Pure-Drop/)
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Pure%20Drop-2F4A3A?style=for-the-badge)](https://madihadiwan.github.io/pure-drop/)
 
